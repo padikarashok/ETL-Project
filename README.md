@@ -13,4 +13,6 @@ This project creates an **ETL (Extract, Transform, Load)** pipeline to move and 
 - Important tables like **users**, **products**, and **sales** are updated to prepare for reporting.
 - This pipeline combines data from MongoDB and OLTP into one place, making it easy to generate reports and analyze data.
 
+### 3. Visualization of data using Tableau
+
 ---
